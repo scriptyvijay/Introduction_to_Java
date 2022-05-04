@@ -1,2 +1,6 @@
-# Introduction_to_Java
-# Introduction_to_Java
+# Introduction to Java
+
+## Table of contents
+* [fundamental](#Fundamental)
+* [patterns](#pattern)
+* [Array](#array)
