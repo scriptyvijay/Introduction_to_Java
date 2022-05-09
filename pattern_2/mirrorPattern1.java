@@ -2,7 +2,7 @@ package pattern_2;
 
 import java.util.Scanner;
 
-/**
+/*
  * mirrorPattern1
  * *
  * **
