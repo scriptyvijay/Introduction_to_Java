@@ -1,7 +1,7 @@
 package pattern_2;
 
 import java.util.Scanner;
-
+//Pattern idea
 //    1
 //   12
 //  123
