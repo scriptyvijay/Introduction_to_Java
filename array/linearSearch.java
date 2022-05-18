@@ -13,6 +13,7 @@ public class linearSearch {
             System.out.println("Enter "+i+"th Element: ");
             arr[i]=sc.nextInt();
         }
+        sc.close();
         return arr;
     }
 
@@ -31,5 +32,6 @@ public class linearSearch {
         int findN = sc.nextInt();
         int n = findNum(arr,findN);
         System.out.println("Here is the number "+ n);
+        sc.close();
     }
 }
